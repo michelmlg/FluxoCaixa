@@ -6,13 +6,13 @@ namespace prjFluxoCaixa
     {
         static private Caixa ?caixa;
 
-        static private List<Familia> familias = new List<Familia>(); // Lista criada com P nenhuma
+        static private List<Familia> familias = new List<Familia>(); // Lista criada com nada
 
         static private Responsavel[] res = {
-                                            new Responsavel("HÈlio Rangel", 'A'),
+                                            new Responsavel("H√©lio Rangel", 'A'),
                                             new Responsavel("Maria Aparecida", 'A'),
                                             new Responsavel("Carlos",'U'),
-                                            new Responsavel("JosÈ AmÈrico",'U')
+                                            new Responsavel("Jos√© Am√©rico",'U')
                                            };
 
         public frmLivroCaixa()
@@ -25,27 +25,27 @@ namespace prjFluxoCaixa
             if (caixa == null) // Primeira vez que roda o APP
             {
                 caixa = Serializa.load();
-                if (caixa == null) // Foi l· ler o arquivo e ainda n„o existe
+                if (caixa == null) // Foi l√° ler o arquivo e ainda n√£o existe
                 {
-                    caixa = new Caixa("Outubro/23"); // Instancia o caixa que n„o existia
+                    caixa = new Caixa("Outubro/23"); // Instancia o caixa que n√£o existia
                     Serializa.save(caixa); // salva o caixa recem criado (agora vai ter)
                 }
                 txRelatorio.Text = caixa.relatorio();
             }
             if(familias.Count == 0)
             {
-                familias.Add(new Familia("CrÈdito", "CRE"));
-                familias.Add(new Familia("CartÛrio", "CAR"));
-                familias.Add(new Familia("Material escritÛrio", "ESC"));
-                familias.Add(new Familia("RefeiÁ„o", "REF"));
+                familias.Add(new Familia("Cr√©dito", "CRE"));
+                familias.Add(new Familia("Cart√≥rio", "CAR"));
+                familias.Add(new Familia("Material escrit√≥rio", "ESC"));
+                familias.Add(new Familia("Refei√ß√£o", "REF"));
                 familias.Add(new Familia("Lanche", "LAN"));
                 familias.Add(new Familia("TAXI", "TAX"));
                 familias.Add(new Familia("Aplicativo", "APL"));
-                familias.Add(new Familia("ManutenÁ„o", "MAN"));
-                familias.Add(new Familia("‘nibus", "BUS"));
+                familias.Add(new Familia("Manuten√ß√£o", "MAN"));
+                familias.Add(new Familia("√înibus", "BUS"));
             }
 
-            familias.Sort(); //SÛ posso usar pq tem o IComparable
+            familias.Sort(); //S√≥ posso usar pq tem o IComparable
 
 
             cbResponsavel.Items.Clear(); // Limpando o combo
@@ -68,34 +68,34 @@ namespace prjFluxoCaixa
 
             if (!DateTime.TryParse(txData.Text, out data))
             {
-                MessageBox.Show("Data digitada deve ser uma data v·lida!");
+                MessageBox.Show("Data digitada deve ser uma data v√°lida!");
                 txData.Focus();
                 return;
             }
 
             if (data.CompareTo(DateTime.Now) > 0)
             {
-                MessageBox.Show("Data futura È inv·lida!");
+                MessageBox.Show("Data futura √© inv√°lida!");
                 txData.Focus();
                 return;
             }
 
             if (txDescricao.Text.Trim().Length == 0)
             {
-                MessageBox.Show("DescriÁ„o do lanÁamento È obrigatÛria!");
+                MessageBox.Show("Descri√ß√£o do lan√ßamento √© obrigat√≥ria!");
                 txDescricao.Focus();
                 return;
             }
 
             if (cbResponsavel.SelectedIndex == -1)
             {
-                MessageBox.Show("Selecione o respons·vel");
+                MessageBox.Show("Selecione o respons√°vel");
                 cbResponsavel.Focus();
                 return;
             }
             if (cbFamilia.SelectedIndex == -1)
             {
-                MessageBox.Show("Selecione a famÌlia de lanÁamento");
+                MessageBox.Show("Selecione a fam√≠lia de lan√ßamento");
                 cbFamilia.Focus();
                 return;
             }
@@ -103,7 +103,7 @@ namespace prjFluxoCaixa
 
             if (!rbCredito.Checked && !rbDebito.Checked)
             {
-                MessageBox.Show("Selecione se crÈdito ou dÈbito!");
+                MessageBox.Show("Selecione se cr√©dito ou d√©bito!");
                 return;
             }
 
@@ -111,7 +111,7 @@ namespace prjFluxoCaixa
 
             if (!float.TryParse(txValor.Text, out valor) || valor <= 0)
             {
-                MessageBox.Show("Valor digitado n„o È um valor v·lido!");
+                MessageBox.Show("Valor digitado n√£o √© um valor v√°lido!");
                 return;
             }
 
@@ -123,7 +123,7 @@ namespace prjFluxoCaixa
             }
 
             String ?textoSelecionadoNoCombo = cbResponsavel.SelectedItem.ToString();
-            Responsavel txtSel = null; // selec È o responsavel selecionado
+            Responsavel txtSel = null; // selec √© o responsavel selecionado
             foreach(Responsavel responsavelNaLista in res)
             {
                if (textoSelecionadoNoCombo == responsavelNaLista.Nome)
@@ -134,7 +134,7 @@ namespace prjFluxoCaixa
             }
             if (txtSel == null)
             {
-                MessageBox.Show("Erro inesperado. Respons·vel n„o cadastrado!");
+                MessageBox.Show("Erro inesperado. Respons√°vel n√£o cadastrado!");
                 return;
             }
 
@@ -150,7 +150,7 @@ namespace prjFluxoCaixa
             }
             if (famSel == null)
             {
-                MessageBox.Show("Erro inesperado. Familia n„o cadastrada!");
+                MessageBox.Show("Erro inesperado. Familia n√£o cadastrada!");
                 return;
             }
 
@@ -168,7 +168,7 @@ namespace prjFluxoCaixa
                 Serializa.save(caixa);
                 txRelatorio.Text = caixa.relatorio();
             }
-            //Apaga as caixas de opÁ„o
+            //Apaga as caixas de op√ß√£o
             txData.Text = null;
             txDescricao.Text = null;
             cbResponsavel.SelectedIndex = -1;
