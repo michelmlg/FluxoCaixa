@@ -1,0 +1,83 @@
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa\prjFluxoCaixa\bin\Debug\net6.0-windows\prjFluxoCaixa.exe
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa\prjFluxoCaixa\bin\Debug\net6.0-windows\prjFluxoCaixa.deps.json
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa\prjFluxoCaixa\bin\Debug\net6.0-windows\prjFluxoCaixa.runtimeconfig.json
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa\prjFluxoCaixa\bin\Debug\net6.0-windows\prjFluxoCaixa.dll
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa\prjFluxoCaixa\bin\Debug\net6.0-windows\ref\prjFluxoCaixa.dll
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa\prjFluxoCaixa\bin\Debug\net6.0-windows\prjFluxoCaixa.pdb
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.csproj.AssemblyReference.cache
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.csproj.GenerateResource.cache
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.GeneratedMSBuildEditorConfig.editorconfig
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.AssemblyInfoInputs.cache
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.AssemblyInfo.cs
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.csproj.CoreCompileInputs.cache
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.dll
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\ref\prjFluxoCaixa.dll
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.pdb
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.genruntimeconfig.cache
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.frmLivroCaixa.resources
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa_02\prjFluxoCaixa\prjFluxoCaixa\bin\Debug\net6.0-windows\prjFluxoCaixa.exe
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa_02\prjFluxoCaixa\prjFluxoCaixa\bin\Debug\net6.0-windows\prjFluxoCaixa.deps.json
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa_02\prjFluxoCaixa\prjFluxoCaixa\bin\Debug\net6.0-windows\prjFluxoCaixa.runtimeconfig.json
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa_02\prjFluxoCaixa\prjFluxoCaixa\bin\Debug\net6.0-windows\prjFluxoCaixa.dll
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa_02\prjFluxoCaixa\prjFluxoCaixa\bin\Debug\net6.0-windows\ref\prjFluxoCaixa.dll
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa_02\prjFluxoCaixa\prjFluxoCaixa\bin\Debug\net6.0-windows\prjFluxoCaixa.pdb
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa_02\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.csproj.AssemblyReference.cache
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa_02\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.frmLivroCaixa.resources
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa_02\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.csproj.GenerateResource.cache
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa_02\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.GeneratedMSBuildEditorConfig.editorconfig
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa_02\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.AssemblyInfoInputs.cache
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa_02\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.AssemblyInfo.cs
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa_02\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.csproj.CoreCompileInputs.cache
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa_02\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.dll
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa_02\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\ref\prjFluxoCaixa.dll
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa_02\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.pdb
+P:\Rangel\ADS C#\Projetos\prjFluxoCaixa_02\prjFluxoCaixa\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.genruntimeconfig.cache
+D:\ADS\ORIENTObj\Aula dia 30.10.2023\prjFluxoCaixa_atual\prjFluxoCaixa\bin\Debug\net6.0-windows\prjFluxoCaixa.exe
+D:\ADS\ORIENTObj\Aula dia 30.10.2023\prjFluxoCaixa_atual\prjFluxoCaixa\bin\Debug\net6.0-windows\prjFluxoCaixa.deps.json
+D:\ADS\ORIENTObj\Aula dia 30.10.2023\prjFluxoCaixa_atual\prjFluxoCaixa\bin\Debug\net6.0-windows\prjFluxoCaixa.runtimeconfig.json
+D:\ADS\ORIENTObj\Aula dia 30.10.2023\prjFluxoCaixa_atual\prjFluxoCaixa\bin\Debug\net6.0-windows\prjFluxoCaixa.dll
+D:\ADS\ORIENTObj\Aula dia 30.10.2023\prjFluxoCaixa_atual\prjFluxoCaixa\bin\Debug\net6.0-windows\ref\prjFluxoCaixa.dll
+D:\ADS\ORIENTObj\Aula dia 30.10.2023\prjFluxoCaixa_atual\prjFluxoCaixa\bin\Debug\net6.0-windows\prjFluxoCaixa.pdb
+D:\ADS\ORIENTObj\Aula dia 30.10.2023\prjFluxoCaixa_atual\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.csproj.AssemblyReference.cache
+D:\ADS\ORIENTObj\Aula dia 30.10.2023\prjFluxoCaixa_atual\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.frmLivroCaixa.resources
+D:\ADS\ORIENTObj\Aula dia 30.10.2023\prjFluxoCaixa_atual\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.csproj.GenerateResource.cache
+D:\ADS\ORIENTObj\Aula dia 30.10.2023\prjFluxoCaixa_atual\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADS\ORIENTObj\Aula dia 30.10.2023\prjFluxoCaixa_atual\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.AssemblyInfoInputs.cache
+D:\ADS\ORIENTObj\Aula dia 30.10.2023\prjFluxoCaixa_atual\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.AssemblyInfo.cs
+D:\ADS\ORIENTObj\Aula dia 30.10.2023\prjFluxoCaixa_atual\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.csproj.CoreCompileInputs.cache
+D:\ADS\ORIENTObj\Aula dia 30.10.2023\prjFluxoCaixa_atual\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.dll
+D:\ADS\ORIENTObj\Aula dia 30.10.2023\prjFluxoCaixa_atual\prjFluxoCaixa\obj\Debug\net6.0-windows\ref\prjFluxoCaixa.dll
+D:\ADS\ORIENTObj\Aula dia 30.10.2023\prjFluxoCaixa_atual\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.pdb
+D:\ADS\ORIENTObj\Aula dia 30.10.2023\prjFluxoCaixa_atual\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.genruntimeconfig.cache
+D:\1. Faculdade\2. Segundo Semestre\Aulas Programação Orientada ao Objeto\Aula dia 30.10.2023\prjFluxoCaixa_atual\prjFluxoCaixa\bin\Debug\net6.0-windows\prjFluxoCaixa.exe
+D:\1. Faculdade\2. Segundo Semestre\Aulas Programação Orientada ao Objeto\Aula dia 30.10.2023\prjFluxoCaixa_atual\prjFluxoCaixa\bin\Debug\net6.0-windows\prjFluxoCaixa.deps.json
+D:\1. Faculdade\2. Segundo Semestre\Aulas Programação Orientada ao Objeto\Aula dia 30.10.2023\prjFluxoCaixa_atual\prjFluxoCaixa\bin\Debug\net6.0-windows\prjFluxoCaixa.runtimeconfig.json
+D:\1. Faculdade\2. Segundo Semestre\Aulas Programação Orientada ao Objeto\Aula dia 30.10.2023\prjFluxoCaixa_atual\prjFluxoCaixa\bin\Debug\net6.0-windows\prjFluxoCaixa.dll
+D:\1. Faculdade\2. Segundo Semestre\Aulas Programação Orientada ao Objeto\Aula dia 30.10.2023\prjFluxoCaixa_atual\prjFluxoCaixa\bin\Debug\net6.0-windows\prjFluxoCaixa.pdb
+D:\1. Faculdade\2. Segundo Semestre\Aulas Programação Orientada ao Objeto\Aula dia 30.10.2023\prjFluxoCaixa_atual\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.frmLivroCaixa.resources
+D:\1. Faculdade\2. Segundo Semestre\Aulas Programação Orientada ao Objeto\Aula dia 30.10.2023\prjFluxoCaixa_atual\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.csproj.GenerateResource.cache
+D:\1. Faculdade\2. Segundo Semestre\Aulas Programação Orientada ao Objeto\Aula dia 30.10.2023\prjFluxoCaixa_atual\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. Faculdade\2. Segundo Semestre\Aulas Programação Orientada ao Objeto\Aula dia 30.10.2023\prjFluxoCaixa_atual\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.AssemblyInfoInputs.cache
+D:\1. Faculdade\2. Segundo Semestre\Aulas Programação Orientada ao Objeto\Aula dia 30.10.2023\prjFluxoCaixa_atual\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.AssemblyInfo.cs
+D:\1. Faculdade\2. Segundo Semestre\Aulas Programação Orientada ao Objeto\Aula dia 30.10.2023\prjFluxoCaixa_atual\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.csproj.CoreCompileInputs.cache
+D:\1. Faculdade\2. Segundo Semestre\Aulas Programação Orientada ao Objeto\Aula dia 30.10.2023\prjFluxoCaixa_atual\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.dll
+D:\1. Faculdade\2. Segundo Semestre\Aulas Programação Orientada ao Objeto\Aula dia 30.10.2023\prjFluxoCaixa_atual\prjFluxoCaixa\obj\Debug\net6.0-windows\refint\prjFluxoCaixa.dll
+D:\1. Faculdade\2. Segundo Semestre\Aulas Programação Orientada ao Objeto\Aula dia 30.10.2023\prjFluxoCaixa_atual\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.pdb
+D:\1. Faculdade\2. Segundo Semestre\Aulas Programação Orientada ao Objeto\Aula dia 30.10.2023\prjFluxoCaixa_atual\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.genruntimeconfig.cache
+D:\1. Faculdade\2. Segundo Semestre\Aulas Programação Orientada ao Objeto\Aula dia 30.10.2023\prjFluxoCaixa_atual\prjFluxoCaixa\obj\Debug\net6.0-windows\ref\prjFluxoCaixa.dll
+F:\1. Faculdade\2. Segundo Semestre\Aulas Programação Orientada ao Objeto\Aula dia 30.10.2023\prjFluxoCaixa_atual\prjFluxoCaixa\bin\Debug\net6.0-windows\prjFluxoCaixa.exe
+F:\1. Faculdade\2. Segundo Semestre\Aulas Programação Orientada ao Objeto\Aula dia 30.10.2023\prjFluxoCaixa_atual\prjFluxoCaixa\bin\Debug\net6.0-windows\prjFluxoCaixa.deps.json
+F:\1. Faculdade\2. Segundo Semestre\Aulas Programação Orientada ao Objeto\Aula dia 30.10.2023\prjFluxoCaixa_atual\prjFluxoCaixa\bin\Debug\net6.0-windows\prjFluxoCaixa.runtimeconfig.json
+F:\1. Faculdade\2. Segundo Semestre\Aulas Programação Orientada ao Objeto\Aula dia 30.10.2023\prjFluxoCaixa_atual\prjFluxoCaixa\bin\Debug\net6.0-windows\prjFluxoCaixa.dll
+F:\1. Faculdade\2. Segundo Semestre\Aulas Programação Orientada ao Objeto\Aula dia 30.10.2023\prjFluxoCaixa_atual\prjFluxoCaixa\bin\Debug\net6.0-windows\prjFluxoCaixa.pdb
+F:\1. Faculdade\2. Segundo Semestre\Aulas Programação Orientada ao Objeto\Aula dia 30.10.2023\prjFluxoCaixa_atual\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.frmLivroCaixa.resources
+F:\1. Faculdade\2. Segundo Semestre\Aulas Programação Orientada ao Objeto\Aula dia 30.10.2023\prjFluxoCaixa_atual\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.csproj.GenerateResource.cache
+F:\1. Faculdade\2. Segundo Semestre\Aulas Programação Orientada ao Objeto\Aula dia 30.10.2023\prjFluxoCaixa_atual\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.GeneratedMSBuildEditorConfig.editorconfig
+F:\1. Faculdade\2. Segundo Semestre\Aulas Programação Orientada ao Objeto\Aula dia 30.10.2023\prjFluxoCaixa_atual\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.AssemblyInfoInputs.cache
+F:\1. Faculdade\2. Segundo Semestre\Aulas Programação Orientada ao Objeto\Aula dia 30.10.2023\prjFluxoCaixa_atual\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.AssemblyInfo.cs
+F:\1. Faculdade\2. Segundo Semestre\Aulas Programação Orientada ao Objeto\Aula dia 30.10.2023\prjFluxoCaixa_atual\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.csproj.CoreCompileInputs.cache
+F:\1. Faculdade\2. Segundo Semestre\Aulas Programação Orientada ao Objeto\Aula dia 30.10.2023\prjFluxoCaixa_atual\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.dll
+F:\1. Faculdade\2. Segundo Semestre\Aulas Programação Orientada ao Objeto\Aula dia 30.10.2023\prjFluxoCaixa_atual\prjFluxoCaixa\obj\Debug\net6.0-windows\refint\prjFluxoCaixa.dll
+F:\1. Faculdade\2. Segundo Semestre\Aulas Programação Orientada ao Objeto\Aula dia 30.10.2023\prjFluxoCaixa_atual\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.pdb
+F:\1. Faculdade\2. Segundo Semestre\Aulas Programação Orientada ao Objeto\Aula dia 30.10.2023\prjFluxoCaixa_atual\prjFluxoCaixa\obj\Debug\net6.0-windows\prjFluxoCaixa.genruntimeconfig.cache
+F:\1. Faculdade\2. Segundo Semestre\Aulas Programação Orientada ao Objeto\Aula dia 30.10.2023\prjFluxoCaixa_atual\prjFluxoCaixa\obj\Debug\net6.0-windows\ref\prjFluxoCaixa.dll
